@@ -1,0 +1,6 @@
+{
+  "name": "Sixth Schedule Archive",
+  "description": "A Living Constitutional Record of Indigenous Governance, Autonomous Institutions, Constitutional Design and Judicial Interpretation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
